@@ -30,6 +30,12 @@ const data5={
     imglink:"",
     price:323,
 };
+const data6={
+    title:"THE EVERYDAY AUTHOR",
+    author:"denis ritchie",
+    imglink:"",
+    price:323,
+};
 
 
 function BookList2(){        //rafce for shortcut
